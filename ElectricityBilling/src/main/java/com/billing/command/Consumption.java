@@ -5,7 +5,8 @@ public class Consumption
 	private String units;
 	private String type;
 	
-	public String getUnits() {
+	public String getUnits()
+	{
 		return units;
 	}
 	public void setUnits(String units) {
