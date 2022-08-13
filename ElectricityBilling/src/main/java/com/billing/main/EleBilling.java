@@ -9,6 +9,6 @@ public class EleBilling
 	public static void main(String[] args)
 	{
 		SpringApplication.run(EleBilling.class, args);
-		System.out.println("Deployement Completed\nApplication is ready to Use");
+		System.out.println("Deployement Completed\nApplication is ready to Use:");
 	}
 }
